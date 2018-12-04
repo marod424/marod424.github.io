@@ -7,20 +7,20 @@ Master of Science Applied Physics, December 2012
 Rackham Merit Fellowship and Summer Institute | Sloan Scholar
 
 **University of Delaware, College of Engineering**, Newark, DE  
-Bachelor of Engineering, May 2010 | Electrical Engineering, Minor: Physics, GPA: 3.62
-R.I.S.E Program Scholar | Roscoe M. Lewis, Jr. 1950 Scholarship 
-IEEE Secretary (2009), President (2008), Vice President (2007)
-Honors Program and Dean's List (2006, 2007, 2008, 2009)
+Bachelor of Engineering, May 2010 | Electrical Engineering, Minor: Physics, GPA: 3.62  
+R.I.S.E Program Scholar | Roscoe M. Lewis, Jr. 1950 Scholarship  
+IEEE Secretary (2009), President (2008), Vice President (2007)  
+Honors Program and Dean's List (2006, 2007, 2008, 2009)  
 Latino Student of Distinction (2007, 2008, 2009)
 
 ### Professional Experience
 
 [**Knowledgine**](https://www.knowledgine.com/) (November 2017 – present)  
-CTO  –  Education Technology startup
+CTO  –  Education Technology Startup  
 MEAN stack, AWS
   
 [**Anatha**](http://www.projectanatha.co/) (May 2018 – Aug 2018)  
-Freelance Web Developer  –  Offline cryptocurrency smart wallet
+Freelance Web Developer  –  Offline cryptocurrency smart wallet  
 Node, Electron, React, Redux, D3
 
 **Billtrust** (August 2014 – September 2017)  
@@ -41,7 +41,7 @@ Advisors: Dr. Stephen Rand | Dr. Mahta Moghaddam
 Optical Imaging through Inhomogeneous Media | Smart Sensor Webs
 
 **Undergraduate Research** (Summer 2008 – Spring 2010)   
-Advisor: Dr. Takashi Buma
+Advisor: Dr. Takashi Buma  
 Optical Coherence Elastography Imaging
 
 ### Publications
