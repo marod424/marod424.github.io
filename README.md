@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## 2018 
 
-You can use the [editor on GitHub](https://github.com/marod424/marod424.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+University of Michigan, Rackham Graduate School, Ann Arbor, MI
+	Master of Science Applied Physics, December 2012
 
-### Markdown
+University of Delaware, College of Engineering, Newark, DE 
+	Bachelor of Engineering, May 2010 | Electrical Engineering, Minor: Physics, GPA: 3.62
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Professional Experience
 
-# Header 1
-## Header 2
-### Header 3
+Knowledgine (November 2017 – present)
+	CTO  –  Education Technology startup [LINK](https://www.knowledgine.com/)
+	MEAN stack, AWS
+  
+Anatha (May 2018 – Aug 2018)
+	Freelance Web Developer  –  Offline cryptocurrency smart wallet [LINK](http://www.projectanatha.co/)
+	Node, Electron, React, Redux, D3
 
-- Bulleted
-- List
+Billtrust (August 2014 – September 2017)
+	Web Developer  –  Agile development environment (JIRA)
+	SaaS platform developer primarily supporting B2B clients with payment cycle management.
+	Multi platform/service architecture utilizing LAMP, WAMP, IIS, Node technologies.
+	Ubiquitous external and internal REST API layers for service/platform communication.
+	PHP  –  Zend, Phalcon, Laravel, PHPUnit, Composer
+	JS  –  jQuery, Angular, TypeScript, Karma, Jasmine, Gulp, Node
+	Misc.  –  C#, Python, RabbitMQ, AWS, Docker, Jenkins, Git, SVN
 
-1. Numbered
-2. List
+Dooble, Inc. (January 2014 – May 2014)
+	JavaScript Developer
+	Startup company developing social application – MEAN stack; NGINX, Heroku, AWS
 
-**Bold** and _Italic_ and `Code` text
+Graduate Research (Summer 2012 | Summer 2010)
+	Advisors: Dr. Stephen Rand | Dr. Mahta Moghaddam
+	Optical Imaging through Inhomogeneous Media | Smart Sensor Webs
 
-[Link](url) and ![Image](src)
-```
+Undergraduate Research (Summer 2008 – Spring 2010) 
+	Advisor: Dr. Takashi Buma
+  Optical Coherence Elastography Imaging
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Publications
 
-### Jekyll Themes
+R. Zurakowski, M. Churgin, C. Perez, M. Rodriguez, Approximate-model closed-loop minimal sampling method for HIV viral-load minima detection. American Control Conference, 2011, pp. 5418-5419.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marod424/marod424.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Honors and Activities
 
-### Support or Contact
+University of Michigan 
+  Rackham Merit Fellowship and Summer Institute | Sloan Scholar
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+University of Delaware 
+  R.I.S.E Program Scholar | Roscoe M. Lewis, Jr. 1950 Scholarship 
+	IEEE Secretary (2009), President (2008), Vice President (2007)
+  Honors Program and Dean's List (2006, 2007, 2008, 2009)
+  Latino Student of Distinction (2007, 2008, 2009)
+
