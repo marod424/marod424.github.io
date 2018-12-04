@@ -1,5 +1,3 @@
-## 2018 
-
 ### Education
 
 **University of Michigan, Rackham Graduate School**, Ann Arbor, MI  
@@ -41,7 +39,7 @@ Startup company developing social application
 MEAN stack, NGINX, Heroku, AWS
 
 **Graduate Research** (Summer 2012)  
-Advisor: Dr. Stephen Rand
+Advisor: Dr. Stephen Rand  
 Optical Imaging through Inhomogeneous Media
 
 **Graduate Research** (Summer 2010)  
@@ -54,4 +52,4 @@ Optical Coherence Elastography Imaging
 
 ### Publications
 
-R. Zurakowski, M. Churgin, C. Perez, M. Rodriguez, Approximate-model closed-loop minimal sampling method for HIV viral-load minima detection. American Control Conference, 2011, pp. 5418-5419.
+[R. Zurakowski, M. Churgin, C. Perez, M. Rodriguez, Approximate-model closed-loop minimal sampling method for HIV viral-load minima detection. American Control Conference, 2011, pp. 5418-5419.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3445656/)
