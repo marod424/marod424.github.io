@@ -17,7 +17,7 @@ Latino Student of Distinction (2007, 2008, 2009)
 ### Professional Experience
 
 [**The Frisch School**](https://frisch.org/) (March 2021 – June 2021)  
-Modern Orthodox Jewish Yeshiva  –  Interim 11th Grade Teacher 
+Modern Orthodox Jewish Yeshiva  –  Interim 11th Grade Teacher  
 AP Computer Science, Honors & Accelerated Physics
 
 [**Knowledgine**](https://www.knowledgine.com/) (November 2017 – February 2019)  
