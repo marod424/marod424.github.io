@@ -17,7 +17,7 @@ Latino Student of Distinction (2007, 2008, 2009)
 ### Professional Experience
 
 [**Anatha**](http://www.projectanatha.co/) (Nov 2021 – June 2022)  
-Full-time Technical Lead  –  Web3 NFT Platform
+Full-time Technical Lead  –  Web3 NFT Platform  
 Node, React, NextJS, Vercel, Turborepo, Solidity
 
 [**The Frisch School**](https://frisch.org/) (March 2021 – June 2021)  
@@ -25,7 +25,7 @@ Modern Orthodox Jewish Yeshiva  –  Interim 11th Grade Teacher
 AP Computer Science, Honors & Accelerated Physics
 
 [**Billtrust**](https://www.billtrust.com/products/business-payments-network/) (March 2019 – Oct 2020)  
-Senior Web Developer  –  Business Payments Network (BPN) 
+Senior Web Developer  –  Business Payments Network (BPN)  
 C#, Microservices, Event driven architecture, Angular
 
 [**Anatha**](http://www.projectanatha.co/) (May 2018 – Aug 2018)  
