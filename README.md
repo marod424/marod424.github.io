@@ -16,19 +16,27 @@ Latino Student of Distinction (2007, 2008, 2009)
 
 ### Professional Experience
 
+[**Anatha**](http://www.projectanatha.co/) (Nov 2021 – June 2022)  
+Full-time Technical Lead  –  Web3 NFT Platform
+Node, React, NextJS, Vercel, Turborepo, Solidity
+
 [**The Frisch School**](https://frisch.org/) (March 2021 – June 2021)  
 Modern Orthodox Jewish Yeshiva  –  Interim 11th Grade Teacher  
 AP Computer Science, Honors & Accelerated Physics
 
-[**Knowledgine**](https://www.knowledgine.com/) (November 2017 – February 2019)  
-CTO  –  Education Technology Startup  
-MEAN stack, AWS
-  
+[**Billtrust**](https://www.billtrust.com/products/business-payments-network/) (March 2019 – Oct 2020)  
+Senior Web Developer  –  Business Payments Network (BPN) 
+C#, Microservices, Event driven architecture, Angular
+
 [**Anatha**](http://www.projectanatha.co/) (May 2018 – Aug 2018)  
 Freelance Web Developer  –  Offline cryptocurrency smart wallet  
 Node, Electron, React, Redux, D3
 
-**Billtrust** (August 2014 – September 2017)  
+[**Knowledgine**](https://cabosante.com/projects/knowledgine/) (November 2017 – February 2019)  
+CTO  –  Education Technology Startup  
+MEAN stack, AWS
+
+[**Billtrust**](https://www.billtrust.com/) (August 2014 – September 2017)  
 Web Developer  –  Agile development environment 
 SaaS platform developer primarily supporting B2B clients with payment cycle management.  
 Multi platform/service architecture utilizing LAMP, WAMP, IIS, Node technologies.  
